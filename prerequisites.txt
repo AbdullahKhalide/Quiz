@@ -1,0 +1,8 @@
+Prerequisistes
+
+-JavaScript
+-DOM
+-BOM
+-AJAX
+-Json
+-JavaScript Big Tutorials
